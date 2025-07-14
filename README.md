@@ -1,0 +1,9 @@
+Abstract
+
+Predictive maintenance is essential for minimizing unplanned downtime and optimizing industrial processes. In the case of plastic injection molding machines, failures that lead to downtime cause costly delays. As industrialization advances, proactive equipment management enhances cost efficiency, reliability, and operational continuity.
+
+This study aims to detect machine states so that the next classification step can detect faults before they occur, using sensors, data science techniques and statistical analysis. A case study was carried out, including machine characterization and data collection from various sources. Clustering methods identified operational patterns and anomalies, classifying the machine's behavior into distinct states.
+
+By applying unsupervised learning techniques, namely clustering methods such as DBSCAN, we have developed a methodology for early detection of anomalies in machine operational data. By reducing dimensionality with PCA and identifying distinct operating patterns, we were able to effectively distinguish between normal and abnormal conditions. This approach allows for timely interventions in the next step, which is classification, preventing failures and contributing to a data-based predictive maintenance strategy.
+
+The results obtained demonstrate the potential of the combined use of PCA and DBSCAN in the analysis of machine operating states, allowing a clear segmentation of their behavior. This segmentation forms a solid basis for future classification steps aimed at predicting failures. The proposed methodology, centered on unsupervised techniques, offers a scalable and effective solution for the continuous monitoring of industrial equipment, promoting more proactive maintenance management and contributing to reducing downtime, increasing reliability and improving production efficiency.
